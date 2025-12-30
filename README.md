@@ -467,4 +467,3 @@ MIT License - Feel free to use this in your projects!
 
 ---
 
-**Made with ❤️ for secure AI applications**
